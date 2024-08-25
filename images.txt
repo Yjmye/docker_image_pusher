@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 linuxserver/grocy
-linuxserver/grocy:v4.1.0
+linuxserver/grocy:v4.1.0-ls234

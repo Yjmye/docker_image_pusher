@@ -53,8 +53,8 @@ jc21/nginx-proxy-manager:latest
 #audiobookshelf
 ghcr.io/advplyr/audiobookshelf:latest
 
-
-
+#noocodb
+nocodb/nocodb:latest
 
 
 

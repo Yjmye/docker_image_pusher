@@ -14,3 +14,5 @@ linuxserver/grocy:v4.1.0-ls234
 #portainer 
 portainer/portainer-ce:latest
 baserow/baserow:1.26.1
+teddysun/kms:latest
+postgres:13-alpine

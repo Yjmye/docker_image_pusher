@@ -55,11 +55,16 @@ ghcr.io/advplyr/audiobookshelf:latest
 
 #noocodb
 nocodb/nocodb:latest
-
+docker.n8n.io/n8nio/n8n
 
 #dash
 lissy93/dashy:latest
 
+
+#HA
+ghcr.io/home-assistant/home-assistant:stable
+
+gotify/server
 
 
 

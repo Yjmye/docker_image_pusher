@@ -57,6 +57,8 @@ ghcr.io/advplyr/audiobookshelf:latest
 nocodb/nocodb:latest
 
 
+#dash
+lissy93/dashy:latest
 
 
 

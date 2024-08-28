@@ -16,3 +16,6 @@ portainer/portainer-ce:latest
 baserow/baserow:1.26.1
 teddysun/kms:latest
 postgres:13-alpine
+wangqiru/ttrss:latest
+wangqiru/mercury-parser-api:latest
+wangqiru/opencc-api-server:latest

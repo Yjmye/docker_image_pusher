@@ -67,6 +67,10 @@ ghcr.io/home-assistant/home-assistant:stable
 gotify/server
 
 
+#Reader
+hectorqin/reader:openj9-latest
+
+
 
 
 

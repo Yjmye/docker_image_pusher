@@ -69,6 +69,7 @@ gotify/server
 
 #Reader
 hectorqin/reader:openj9-latest
+ljdyw/yvedu3
 
 
 

@@ -6,7 +6,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #grocy
-linuxserver/grocy:v4.1.0-ls234
+#linuxserver/grocy:v4.1.0-ls234
 
 # immmich images
 #immich-app/immich-server
@@ -15,67 +15,71 @@ linuxserver/grocy:v4.1.0-ls234
 #tensorchord/pgvecto-rs:pg14-v0.2.0@sha256:90724186f0a3517cf6914295b5ab410db9ce23190a2d9d0b9dd6463e3fa298f0
 
 #immich all-in-one
-ghcr.io/imagegenius/immich:latest
+#ghcr.io/imagegenius/immich:latest
 
 
 #portainer 
-portainer/portainer-ce:latest
+#portainer/portainer-ce:latest
 
 #baserow
-baserow/baserow:1.26.1
+#baserow/baserow:1.26.1
 
 # kms
-teddysun/kms:latest
+#teddysun/kms:latest
 
 #tinytinyrss
-postgres:13-alpine
-wangqiru/ttrss:latest
-wangqiru/mercury-parser-api:latest
-wangqiru/opencc-api-server:latest
+#postgres:13-alpine
+#wangqiru/ttrss:latest
+#wangqiru/mercury-parser-api:latest
+#wangqiru/opencc-api-server:latest
 
 #vwultwarden
-vaultwarden/server
+#vaultwarden/server
 
 #syncthing
-linuxserver/syncthing
-syncthing/discosrv
-syncthing/relaysrv
+#linuxserver/syncthing
+#syncthing/discosrv
+#syncthing/relaysrv
 
 #frp
-snowdreamtech/frps
-snowdreamtech/frpc
+#snowdreamtech/frps
+#snowdreamtech/frpc
 
 #alist
-xhofe/alist:latest
+#xhofe/alist:latest
 
 #memos
-elestio/memos
+#elestio/memos
 
 #nginxproxymanager
-jc21/nginx-proxy-manager:latest
+#jc21/nginx-proxy-manager:latest
 
 #audiobookshelf
-ghcr.io/advplyr/audiobookshelf:latest
+#ghcr.io/advplyr/audiobookshelf:latest
 
 #noocodb
-nocodb/nocodb:latest
-docker.n8n.io/n8nio/n8n
+#nocodb/nocodb:latest
+#docker.n8n.io/n8nio/n8n
 
 #dash
-lissy93/dashy:latest
+#lissy93/dashy:latest
 
 
 #HA
-ghcr.io/home-assistant/home-assistant:stable
+#ghcr.io/home-assistant/home-assistant:stable
 
-gotify/server
+#gotify/server
 
 
 #Reader
-hectorqin/reader:openj9-latest
-ljdyw/yvedu3
- hectorqin/reader
+#hectorqin/reader:openj9-latest
+#ljdyw/yvedu3
+#hectorqin/reader
 
+
+#sql
+redis
+tensorchord/pgvecto-rs:pg14-v0.2.0
 
 
 

@@ -78,9 +78,12 @@
 
 
 #sql
-redis
-tensorchord/pgvecto-rs:pg14-v0.2.0
+#redis
+#tensorchord/pgvecto-rs:pg14-v0.2.0
 
+
+#nginx
+nginx:1.23.4
 
 
 

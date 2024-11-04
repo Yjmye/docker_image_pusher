@@ -83,7 +83,14 @@
 
 
 #nginx
-nginx:1.23.4
+#nginx:1.23.4
+
+
+#immich recommanded
+ghcr.io/immich-app/immich-server:${IMMICH_VERSION:-release}
+ghcr.io/immich-app/immich-machine-learning:${IMMICH_VERSION:-release}
+docker.io/redis:6.2-alpine
+docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0
 
 
 

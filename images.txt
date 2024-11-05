@@ -87,10 +87,21 @@
 
 
 #immich recommanded
-ghcr.io/immich-app/immich-server:v1.119.1
-ghcr.io/immich-app/immich-machine-learning:v1.119.1
-docker.io/redis:6.2-alpine
-docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0
+#ghcr.io/immich-app/immich-server:v1.119.1
+#ghcr.io/immich-app/immich-machine-learning:v1.119.1
+#docker.io/redis:6.2-alpine
+#docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0
 
+#baidudisk
+johngong/baidunetdisk:v_4.17.7_4.6.4_arm64v8
+
+#anki
+johngong/anki-sync-server:24.06.3
+
+#calibre-web
+linuxserver/calibre-web:nightly-version-d6798fb2
+
+#wps
+lscr.io/linuxserver/wps-office:chinese-2024-11-01-ls75
 
 

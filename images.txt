@@ -106,7 +106,7 @@
 #lscr.io/linuxserver/wps-office
 
 #filebrowser
-filebrowser/filebrowser:v2-s6
+#filebrowser/filebrowser:v2-s6
 
 
 #music

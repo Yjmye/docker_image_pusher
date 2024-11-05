@@ -109,4 +109,7 @@
 filebrowser/filebrowser:v2-s6
 
 
+#music
+deluan/navidrome
+
 

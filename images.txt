@@ -92,16 +92,18 @@
 #docker.io/redis:6.2-alpine
 #docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0
 
+
 #baidudisk
-johngong/baidunetdisk:v_4.17.7_4.6.4_arm64v8
+johngong/baidunetdisk
 
 #anki
-johngong/anki-sync-server:24.06.3
+johngong/anki-sync-server
 
 #calibre-web
-linuxserver/calibre-web:nightly-version-d6798fb2
+linuxserver/calibre-web
 
 #wps
-lscr.io/linuxserver/wps-office:chinese-2024-11-01-ls75
+lscr.io/linuxserver/wps-office
+
 
 

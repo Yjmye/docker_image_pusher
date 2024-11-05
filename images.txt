@@ -94,16 +94,19 @@
 
 
 #baidudisk
-johngong/baidunetdisk
+#johngong/baidunetdisk
 
 #anki
-johngong/anki-sync-server
+#johngong/anki-sync-server
 
 #calibre-web
-linuxserver/calibre-web
+#linuxserver/calibre-web
 
 #wps
-lscr.io/linuxserver/wps-office
+#lscr.io/linuxserver/wps-office
+
+#filebrowser
+filebrowser/filebrowser:v2-s6
 
 
 

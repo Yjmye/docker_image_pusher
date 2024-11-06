@@ -33,9 +33,9 @@
 #wangqiru/mercury-parser-api:latest
 #wangqiru/opencc-api-server:latest
 
+
 #vwultwarden
 #vaultwarden/server
-
 #syncthing
 #linuxserver/syncthing
 #syncthing/discosrv
@@ -118,6 +118,6 @@
 #p3terx/ariang
 #p3terx/aria2-pro
 
-linuxserver/qbittorrent:4.6.7
-
-
+#linuxserver/qbittorrent:4.6.7
+linuxserver/transmission:latest
+ghcr.io/alexta69/metube

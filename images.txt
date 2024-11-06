@@ -113,11 +113,11 @@
 # deluan/navidrome
 
 #download
-cnk3x/xunlei
+#cnk3x/xunlei
 
-p3terx/ariang
-p3terx/aria2-pro
+#p3terx/ariang
+#p3terx/aria2-pro
 
-
+linuxserver/qbittorrent:4.6.7
 
 

@@ -110,6 +110,9 @@
 
 
 #music
-deluan/navidrome
+# deluan/navidrome
+
+#download
+cnk3x/xunlei
 
 

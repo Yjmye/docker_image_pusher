@@ -115,4 +115,9 @@
 #download
 cnk3x/xunlei
 
+p3terx/ariang
+p3terx/aria2-pro
+
+
+
 

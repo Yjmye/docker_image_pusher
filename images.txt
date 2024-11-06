@@ -119,5 +119,9 @@
 #p3terx/aria2-pro
 
 #linuxserver/qbittorrent:4.6.7
-linuxserver/transmission:latest
-ghcr.io/alexta69/metube
+#linuxserver/transmission:latest
+#ghcr.io/alexta69/metube
+
+
+
+headscale/headscale

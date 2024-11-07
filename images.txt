@@ -130,7 +130,6 @@
 
 #nextcloud
 #linuxserver/nextcloud:develop-version-30.0.2rc2
-nextcloud/all-in-one:v9.8.0
-
+nextcloud/all-in-one
 
 

@@ -129,5 +129,6 @@
 #yangchuansheng/ip_derper
 
 #nextcloud
-linuxserver/nextcloud
+linuxserver/nextcloud:develop-version-30.0.2rc2
+
 

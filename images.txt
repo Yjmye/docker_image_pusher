@@ -130,6 +130,14 @@
 
 #nextcloud
 #linuxserver/nextcloud:develop-version-30.0.2rc2
-nextcloud/all-in-one
+#nextcloud/all-in-one
+
+cloudnas/clouddrive2
+neosmemo/memos:stable
+linuxserver/qbittorrent:4.6.7
+hslr/sun-panel
+cooderl/wewe-rss-sqlite:latest
+
+
 
 

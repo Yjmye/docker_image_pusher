@@ -137,7 +137,7 @@ neosmemo/memos:stable
 linuxserver/qbittorrent:4.6.7
 hslr/sun-panel
 cooderl/wewe-rss-sqlite:latest
-
+wcjiang/linux-command:latest
 
 
 

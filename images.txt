@@ -140,6 +140,6 @@
 #wcjiang/linux-command:latest
 
 docker.io/library/redis:7
-docker.io/library/redis:7
+postgres:16
 ghcr.io/paperless-ngx/paperless-ngx:latest
 

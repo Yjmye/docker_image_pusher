@@ -132,12 +132,14 @@
 #linuxserver/nextcloud:develop-version-30.0.2rc2
 #nextcloud/all-in-one
 
-cloudnas/clouddrive2
-neosmemo/memos:stable
-linuxserver/qbittorrent:4.6.7
-hslr/sun-panel
-cooderl/wewe-rss-sqlite:latest
-wcjiang/linux-command:latest
+#cloudnas/clouddrive2
+#neosmemo/memos:stable
+#linuxserver/qbittorrent:4.6.7
+#hslr/sun-panel
+#cooderl/wewe-rss-sqlite:latest
+#wcjiang/linux-command:latest
 
-
+docker.io/library/redis:7
+docker.io/library/redis:7
+ghcr.io/paperless-ngx/paperless-ngx:latest
 

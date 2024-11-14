@@ -139,7 +139,9 @@
 #cooderl/wewe-rss-sqlite:latest
 #wcjiang/linux-command:latest
 
-docker.io/library/redis:7
-postgres:16
-ghcr.io/paperless-ngx/paperless-ngx:latest
+#docker.io/library/redis:7
+#postgres:16
+#ghcr.io/paperless-ngx/paperless-ngx:latest
 
+
+plexinc/pms-docker

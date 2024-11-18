@@ -150,4 +150,4 @@
 #linuxserver/duplicati
 
 mariadb:10.1
-filerun/filerun
+filerun/filerun:8.1

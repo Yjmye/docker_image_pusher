@@ -147,4 +147,7 @@
 #plexinc/pms-docker
 #xhongc/music_tag_web:latest
 
-linuxserver/duplicati
+#linuxserver/duplicati
+
+mariadb:10.1
+filerun/filerun

@@ -38,8 +38,8 @@
 #vaultwarden/server
 #syncthing
 #linuxserver/syncthing
-#syncthing/discosrv
-#syncthing/relaysrv
+syncthing/discosrv
+syncthing/relaysrv
 
 #frp
 #snowdreamtech/frps

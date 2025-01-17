@@ -153,4 +153,6 @@ syncthing/relaysrv
 #filerun/filerun:8.1
 
 
-filebrowser/filebrowser:s6
+#filebrowser/filebrowser:s6
+adminer:standalone
+linuxserver/mariadb:11.4.4

@@ -36,6 +36,7 @@
 
 #vwultwarden
 #vaultwarden/server
+vaultwarden/server:1.32.7
 #syncthing
 #linuxserver/syncthing
 syncthing/discosrv

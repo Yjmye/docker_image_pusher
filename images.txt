@@ -154,5 +154,8 @@ syncthing/relaysrv
 
 
 #filebrowser/filebrowser:s6
-adminer:standalone
-linuxserver/mariadb:11.4.4
+#adminer:standalone
+#linuxserver/mariadb:11.4.4
+
+
+containrrr/watchtower

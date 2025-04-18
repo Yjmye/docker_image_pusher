@@ -1,3 +1,6 @@
+#wiznote
+wiznote/wizserver-amd64:20221121_beta
+
 amtoaer/bili-sync-rs:v2.4.1
 #snowdreamtech/frpc:0.61.1
 
@@ -41,14 +44,14 @@ amtoaer/bili-sync-rs:v2.4.1
 #vwultwarden
 #vaultwarden/server
 #vaultwarden/server:1.32.7
-vaultwarden/server:sha256-16318aea54fbbfe7432a3a78b9600eec7b9b4ac6733dc82f8eea69a448339ab3
+
 
 
 
 #syncthing
 #linuxserver/syncthing
-syncthing/discosrv
-syncthing/relaysrv
+#syncthing/discosrv
+#syncthing/relaysrv
 
 #frp
 #snowdreamtech/frps

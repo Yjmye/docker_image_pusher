@@ -1,9 +1,11 @@
 #wiznote
-wiznote/wizserver-amd64:20221121_beta
+#wiznote/wizserver-amd64:20221121_beta
 
-amtoaer/bili-sync-rs:v2.4.1
+#amtoaer/bili-sync-rs:v2.4.1
 #snowdreamtech/frpc:0.61.1
 
+
+ghcr.io/juanfont/headscale:latest
 
 #nginx
 #支持私库

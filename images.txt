@@ -1,3 +1,7 @@
+#docspell
+ghcr.io/docspell/joex:latest
+
+
 #wiznote
 #wiznote/wizserver-amd64:20221121_beta
 

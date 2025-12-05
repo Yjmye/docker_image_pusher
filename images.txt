@@ -14,7 +14,7 @@
 
 
 #docspell
-ghcr.io/docspell/joex:latest
+#ghcr.io/docspell/joex:latest
 
 
 #wiznote
@@ -22,7 +22,7 @@ ghcr.io/docspell/joex:latest
 
 #amtoaer/bili-sync-rs:v2.4.1
 #snowdreamtech/frpc:0.61.1
-tailscale/tailscale
+#tailscale/tailscale
 
 #ghcr.io/juanfont/headscale:latest
 
@@ -191,4 +191,4 @@ tailscale/tailscale
 #linuxserver/mariadb:11.4.4
 
 
-containrrr/watchtower
+#containrrr/watchtower

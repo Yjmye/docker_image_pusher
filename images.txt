@@ -1,8 +1,8 @@
 #rk3566 oect immich
---platform=linux/arm64 ghcr.io/immich-app/immich-server:release
---platform=linux/arm64 ghcr.io/immich-app/immich-machine-learning:release-rknn
---platform=linux/arm64 ghcr.io/immich-app/postgres:14-vectorchord0.4.3-pgvectors0.2.0
---platform=linux/arm64 docker.io/valkey/valkey:8
+#--platform=linux/arm64 ghcr.io/immich-app/immich-server:release
+#--platform=linux/arm64 ghcr.io/immich-app/immich-machine-learning:release-rknn
+#--platform=linux/arm64 ghcr.io/immich-app/postgres:14-vectorchord0.4.3-pgvectors0.2.0
+#--platform=linux/arm64 docker.io/valkey/valkey:8
 
 
 #rk3566 oect nextcloud

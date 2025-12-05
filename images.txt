@@ -1,2 +1,2 @@
 #--platform=linux/arm64 logicalspark/docker-tika:latest
-mariadb:10.11
+--platform=linux/arm64 mariadb:10.11

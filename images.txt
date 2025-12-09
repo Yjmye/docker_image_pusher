@@ -1,2 +1,3 @@
-#--platform=linux/arm64 logicalspark/docker-tika:latest
---platform=linux/arm64 mariadb:10.11
+openlistteam/openlist:latest
+p3terx/ariang
+p3terx/aria2-pro

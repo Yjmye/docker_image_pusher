@@ -1,2 +1,1 @@
-rustdesk/rustdesk-server:latest
-rustdesk/rustdesk-server:latest
+tailscale/derper:latest

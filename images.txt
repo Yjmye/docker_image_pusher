@@ -1,1 +1,2 @@
-kaaanata/derper:latest
+syncthing/discosrv:2.0
+syncthing/relaysrv:2.0
